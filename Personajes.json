@@ -1,0 +1,25 @@
+[{
+        "Name": "Crash Bandicoot",
+        "Location": "Wumpa Island",
+        "Details": "Bandicoot que viaja en moto, car, avioneta, etc.",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/CrashBandicootLogo2.png/250px-CrashBandicootLogo2.png",
+        "Car": "Blue",
+        "Popularidad": 10
+    },
+    {
+        "Name": "Coco Bandicoot",
+        "Location": "Wumpa Island",
+        "Details": "Hermana de Crash Bandicoot buena en las computadoras",
+        "Image": "https://static-ie.gamestop.ie/images/products/261546/3max.jpg",
+        "Car": "Pink",
+        "Popularidad": 9.7
+    },
+    {
+        "Name": "Cortex",
+        "Location": "Cortex's Castle",
+        "Details": "Cientifico malvado",
+        "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/CrashBandicootLogo2.png/250px-CrashBandicootLogo2.png",
+        "Car": "Red",
+        "Popularidad": 8.6
+    }
+]
